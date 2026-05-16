@@ -25,11 +25,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/pacman-output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
+###
 
 ###
