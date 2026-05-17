@@ -1,4 +1,4 @@
-## Hi, I'm Lkaenna 👋
+## Hi, I'm Lkaenna
 
 🌱 Working on Data Analytics  
 🔐 Learning Cybersecurity  
@@ -9,7 +9,7 @@
 
 ##
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
@@ -25,7 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-###
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lkaenna/Lkaenna/pacman-output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lkaenna/Lkaenna/pacman-output/galaga-contribution-graph.svg">
